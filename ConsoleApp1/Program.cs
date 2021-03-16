@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace ConsoleApp1
-{
+﻿
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Abasteça seu carro");
+
 
             float valorAbastecer, precoCombustivel, litrosCalculo, podeRodarKms, valorKmtragem, distanciaIda, distanciaVolta, diasTrampo;
           
@@ -73,4 +71,3 @@ namespace ConsoleApp1
 
         }
     }
-}
